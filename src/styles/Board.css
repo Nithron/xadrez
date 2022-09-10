@@ -1,0 +1,13 @@
+.board {
+  /* border-right: 2px;
+  padding-left: 2px;
+  padding-right: 2px; */
+  max-width: 840px;
+  display: flex;
+  flex: 1;
+  flex-wrap: wrap;
+}
+
+.content {
+  display: flex;
+}

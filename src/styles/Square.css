@@ -1,0 +1,41 @@
+.blackSquare {
+  height: 100px;
+  width: 100px;
+  margin: 2px;
+  background-color: #7c5d07fd;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.blackSquareMove {
+  height: 100px;
+  width: 100px;
+  background-color: #8f6b07fd;
+}
+
+.whiteSquare {
+  height: 100px;
+  width: 100px;
+  margin: 2px;
+  background-color: #d4d1d1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.blackSquare {
+  height: 100px;
+  width: 100px;
+  background-color: #8f6b07fd;
+}
+
+.possibleMove {
+  /* margin-top: 36px; */
+  /* margin-inline: ; */
+  height: 24px;
+  width: 24px;
+  background-color: rgb(119, 119, 119);
+  border-radius: 50%;
+  display: inline-block;
+}
